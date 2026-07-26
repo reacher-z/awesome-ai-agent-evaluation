@@ -106,6 +106,9 @@ agents exist?"; reputation answers "which are trustworthy?".
 
 ## Eval frameworks (developer-time / CI)
 
+- **[ClawBench](https://github.com/reacher-z/ClawBench)** — Open-source browser-agent
+  benchmark with isolated container runs, request-interception scoring, and five-layer
+  traces across live websites. ([Project](https://claw-bench.com/)) (Apache-2.0)
 - **[DeepEval](https://github.com/confident-ai/deepeval)** — Pytest-style open-source
   LLM eval framework; dozens of metrics (G-Eval, RAG, agents, safety). (Apache-2.0)
 - **[Ragas](https://github.com/explodinggradients/ragas)** — Reference-free RAG
