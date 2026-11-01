@@ -115,6 +115,9 @@ agents exist?"; reputation answers "which are trustworthy?".
   DeepEval, Phoenix, TruLens. (Apache-2.0)
 - **[Patronus AI](https://www.patronus.ai)** — Managed evaluators + open-weight judge
   models (Lynx for hallucination, Glider) + agent failure-mode debugging.
+- **[agent-qa](https://vostride.com)** — Early-stage application acceptance testing
+  for coding-agent changes to web, Android, and iOS apps, with persistent memidex
+  memory and validated self-improvement. (FSL-1.1-ALv2; model/device costs extra.)
 
 ## Observability & tracing platforms
 
